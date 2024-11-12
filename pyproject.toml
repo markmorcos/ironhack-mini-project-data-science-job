@@ -1,0 +1,9 @@
+[project]
+name = "ironhack-mini-project-data-science-job"
+version = "0.1.0"
+description = "Data Science Job Analysis"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2.3",
+]
