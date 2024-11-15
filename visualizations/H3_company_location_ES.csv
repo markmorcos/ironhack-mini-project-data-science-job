@@ -1,0 +1,29 @@
+company_location,job_title,salary_per_year
+China,"Data Analyst",110018.17
+China,"Data Scientist",115535.17
+China,"Machine Learning Engineer",114274.17
+China,Statistician,114029.93
+Germany,"Data Analyst",112957.25
+Germany,"Data Scientist",117297.87
+Germany,"Machine Learning Engineer",109693.94
+Germany,Statistician,117193.21
+India,"Data Analyst",113173.75
+India,"Data Scientist",116953.42
+India,"Machine Learning Engineer",112467.77
+India,Statistician,112439.94
+Japan,"Data Analyst",117058.18
+Japan,"Data Scientist",114894.48
+Japan,"Machine Learning Engineer",116791.62
+Japan,Statistician,115590.01
+Mexico,"Data Analyst",113559.60
+Mexico,"Data Scientist",110278.77
+Mexico,"Machine Learning Engineer",113851.67
+Mexico,Statistician,125163.47
+"United Kingdom","Data Analyst",114434.06
+"United Kingdom","Data Scientist",111603.26
+"United Kingdom","Machine Learning Engineer",109260.58
+"United Kingdom",Statistician,114971.02
+"United States","Data Analyst",114133.23
+"United States","Data Scientist",109497.60
+"United States","Machine Learning Engineer",118986.81
+"United States",Statistician,113395.18

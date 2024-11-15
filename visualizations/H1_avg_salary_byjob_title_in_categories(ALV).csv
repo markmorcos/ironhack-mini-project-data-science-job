@@ -1,0 +1,17 @@
+job_category_id,category_name,job_title,avg_salary
+2,ML/AI,"Data Analyst",113903
+2,ML/AI,"Data Scientist",112529
+2,ML/AI,"Machine Learning Engineer",114164
+2,ML/AI,Statistician,115171
+4,Engineering,"Data Analyst",116167
+4,Engineering,"Data Scientist",113775
+4,Engineering,"Machine Learning Engineer",110177
+4,Engineering,Statistician,112846
+3,"Data Science","Data Analyst",112402
+3,"Data Science","Data Scientist",114906
+3,"Data Science","Machine Learning Engineer",113719
+3,"Data Science",Statistician,119332
+1,Analysis,"Data Analyst",112664
+1,Analysis,"Data Scientist",113521
+1,Analysis,"Machine Learning Engineer",115003
+1,Analysis,Statistician,115418

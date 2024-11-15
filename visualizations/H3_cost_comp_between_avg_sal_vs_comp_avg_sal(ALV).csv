@@ -1,0 +1,72 @@
+employee_residence_country,work_setting,company_location_country,avg_salary,current_location_avg_salary,savings_percentage
+Mexico,In-person,China,97587,112577,13.32
+"United States",Remote,"United Kingdom",98060,113130,13.32
+"United States",In-person,"United States",99206,113860,12.87
+India,Remote,Germany,100032,113980,12.24
+India,Hybrid,China,98832,112577,12.21
+Mexico,Hybrid,Germany,100670,113980,11.68
+"United States",Hybrid,"United States",100646,113860,11.61
+"United States",Remote,India,100535,113700,11.58
+Mexico,Hybrid,China,99800,112577,11.35
+Japan,Remote,Mexico,102458,115176,11.04
+China,Remote,Mexico,102544,115176,10.97
+India,Remote,Japan,103744,116266,10.77
+"United States",In-person,China,100914,112577,10.36
+"United Kingdom",Hybrid,Japan,104338,116266,10.26
+"United Kingdom",In-person,Germany,102916,113980,9.71
+China,Remote,India,102764,113700,9.62
+"United Kingdom",Remote,Germany,103684,113980,9.03
+China,Hybrid,Mexico,104830,115176,8.98
+Japan,Hybrid,Japan,105853,116266,8.96
+India,Hybrid,"United States",103726,113860,8.9
+Germany,Remote,Japan,106520,116266,8.38
+Japan,Remote,"United Kingdom",103661,113130,8.37
+"United Kingdom",Hybrid,"United Kingdom",104399,113130,7.72
+China,Remote,"United States",105109,113860,7.69
+"United Kingdom",Remote,Mexico,106695,115176,7.36
+"United States",Remote,Japan,108293,116266,6.86
+"United States",Hybrid,Japan,108778,116266,6.44
+"United States",Hybrid,Mexico,108018,115176,6.21
+China,Hybrid,"United States",106926,113860,6.09
+Japan,Remote,India,106819,113700,6.05
+Japan,Remote,Japan,109479,116266,5.84
+Japan,Hybrid,"United States",107240,113860,5.81
+Japan,In-person,"United Kingdom",106664,113130,5.72
+"United Kingdom",Hybrid,India,107273,113700,5.65
+China,In-person,"United Kingdom",106808,113130,5.59
+"United Kingdom",Hybrid,"United States",108065,113860,5.09
+India,Hybrid,Germany,108458,113980,4.84
+"United Kingdom",In-person,Japan,110899,116266,4.62
+"United Kingdom",Hybrid,China,107467,112577,4.54
+"United States",Hybrid,"United Kingdom",108080,113130,4.46
+Japan,Hybrid,Mexico,110150,115176,4.36
+Germany,In-person,Japan,111359,116266,4.22
+Germany,Hybrid,India,108909,113700,4.21
+"United States",In-person,India,108910,113700,4.21
+Mexico,Remote,Mexico,110541,115176,4.02
+"United Kingdom",In-person,"United Kingdom",108675,113130,3.94
+India,Remote,India,109372,113700,3.81
+"United States",In-person,Germany,109735,113980,3.72
+Germany,In-person,Germany,109747,113980,3.71
+Germany,In-person,China,108663,112577,3.48
+Germany,Hybrid,"United States",109982,113860,3.41
+India,Remote,"United Kingdom",109783,113130,2.96
+"United States",In-person,Mexico,112465,115176,2.35
+India,In-person,"United Kingdom",110498,113130,2.33
+Mexico,Remote,Japan,113899,116266,2.04
+"United Kingdom",Hybrid,Germany,111990,113980,1.75
+India,Hybrid,"United Kingdom",111244,113130,1.67
+Germany,In-person,"United States",111997,113860,1.64
+Germany,Remote,"United States",112042,113860,1.6
+Germany,Remote,China,110893,112577,1.5
+Germany,Remote,"United Kingdom",111678,113130,1.28
+Japan,In-person,India,112314,113700,1.22
+China,Remote,Japan,115106,116266,1
+China,In-person,Germany,112920,113980,0.93
+"United Kingdom",Remote,"United States",112824,113860,0.91
+Japan,Hybrid,China,111842,112577,0.65
+Mexico,In-person,Japan,115527,116266,0.64
+India,Remote,Mexico,114453,115176,0.63
+"United States",Remote,Mexico,114515,115176,0.57
+Germany,Hybrid,China,112233,112577,0.31
+"United States",Remote,Germany,113835,113980,0.13
