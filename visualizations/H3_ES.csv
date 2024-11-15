@@ -1,0 +1,22 @@
+company_location,work_setting,average_salary
+China,Remote,118960.84
+China,In-person,109526.21
+China,Hybrid,109770.78
+Germany,Remote,114704.52
+Germany,In-person,113416.51
+Germany,Hybrid,113869.81
+India,Remote,110177.22
+India,In-person,115612.71
+India,Hybrid,114990.57
+Japan,Remote,111231.10
+Japan,In-person,118703.64
+Japan,Hybrid,119187.64
+Mexico,Remote,109950.04
+Mexico,In-person,120092.65
+Mexico,Hybrid,115076.91
+"United Kingdom",Remote,111033.00
+"United Kingdom",In-person,113281.40
+"United Kingdom",Hybrid,115039.27
+"United States",Remote,115663.91
+"United States",In-person,116900.60
+"United States",Hybrid,109254.08

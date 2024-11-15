@@ -1,0 +1,50 @@
+employee_residence_country,company_location_country,avg_salary
+Mexico,China,105438
+"United Kingdom",Germany,106157
+"United States","United Kingdom",106628
+China,Mexico,107536
+"United States","United States",108217
+"United States",India,108599
+China,"United States",109477
+India,Germany,109526
+India,China,109645
+India,"United Kingdom",110548
+Germany,China,110555
+Japan,Japan,110641
+Japan,"United Kingdom",110694
+Germany,"United States",111381
+"United Kingdom","United States",111505
+"United States",Mexico,111528
+"United Kingdom","United Kingdom",111821
+Japan,India,111922
+"United Kingdom",Japan,112673
+Germany,Japan,112701
+China,India,112703
+Germany,India,113153
+"United States",China,113229
+Japan,China,113682
+Japan,"United States",113717
+"United States",Germany,114154
+"United States",Japan,114571
+China,Germany,114677
+Japan,Mexico,114901
+China,"United Kingdom",115390
+Germany,Germany,115454
+India,"United States",115945
+"United Kingdom",India,116124
+"United Kingdom",China,116428
+Mexico,Germany,116524
+India,India,116910
+Mexico,"United Kingdom",117282
+Mexico,India,117409
+"United Kingdom",Mexico,117504
+India,Mexico,117656
+Mexico,Mexico,117804
+Germany,Mexico,118137
+India,Japan,118232
+China,China,120142
+Germany,"United Kingdom",121040
+Japan,Germany,121518
+Mexico,Japan,121714
+China,Japan,122963
+Mexico,"United States",126192

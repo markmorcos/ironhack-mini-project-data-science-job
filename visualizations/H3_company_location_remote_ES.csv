@@ -1,0 +1,29 @@
+work_setting,company_location,job_title,salary_per_year
+Remote,China,"Data Analyst",114517.20
+Remote,China,"Data Scientist",122150.63
+Remote,China,"Machine Learning Engineer",116846.02
+Remote,China,Statistician,130460.53
+Remote,Germany,"Data Analyst",114426.61
+Remote,Germany,"Data Scientist",121057.71
+Remote,Germany,"Machine Learning Engineer",111351.80
+Remote,Germany,Statistician,112203.87
+Remote,India,"Data Analyst",107179.04
+Remote,India,"Data Scientist",111966.83
+Remote,India,"Machine Learning Engineer",110135.76
+Remote,India,Statistician,112305.22
+Remote,Japan,"Data Analyst",116344.73
+Remote,Japan,"Data Scientist",109721.44
+Remote,Japan,"Machine Learning Engineer",112370.09
+Remote,Japan,Statistician,103127.98
+Remote,Mexico,"Data Analyst",108683.58
+Remote,Mexico,"Data Scientist",112325.27
+Remote,Mexico,"Machine Learning Engineer",101462.14
+Remote,Mexico,Statistician,119984.69
+Remote,"United Kingdom","Data Analyst",115472.54
+Remote,"United Kingdom","Data Scientist",112402.02
+Remote,"United Kingdom","Machine Learning Engineer",104773.76
+Remote,"United Kingdom",Statistician,106456.82
+Remote,"United States","Data Analyst",116172.66
+Remote,"United States","Data Scientist",107705.25
+Remote,"United States","Machine Learning Engineer",122281.03
+Remote,"United States",Statistician,119548.74

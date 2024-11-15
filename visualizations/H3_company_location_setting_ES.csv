@@ -1,0 +1,85 @@
+company_location,job_title,work_setting,salary_per_year
+China,"Data Analyst",Hybrid,110244.55
+China,"Data Analyst",In-person,104316.53
+China,"Data Analyst",Remote,114517.20
+China,"Data Scientist",Hybrid,106991.03
+China,"Data Scientist",In-person,117696.43
+China,"Data Scientist",Remote,122150.63
+China,"Machine Learning Engineer",Hybrid,116759.12
+China,"Machine Learning Engineer",In-person,110059.31
+China,"Machine Learning Engineer",Remote,116846.02
+China,Statistician,Hybrid,104466.36
+China,Statistician,In-person,109620.80
+China,Statistician,Remote,130460.53
+Germany,"Data Analyst",Hybrid,115332.21
+Germany,"Data Analyst",In-person,108729.86
+Germany,"Data Analyst",Remote,114426.61
+Germany,"Data Scientist",Hybrid,106692.14
+Germany,"Data Scientist",In-person,123018.23
+Germany,"Data Scientist",Remote,121057.71
+Germany,"Machine Learning Engineer",Hybrid,105580.41
+Germany,"Machine Learning Engineer",In-person,111733.88
+Germany,"Machine Learning Engineer",Remote,111351.80
+Germany,Statistician,Hybrid,123008.61
+Germany,Statistician,In-person,114228.50
+Germany,Statistician,Remote,112203.87
+India,"Data Analyst",Hybrid,115774.54
+India,"Data Analyst",In-person,114960.59
+India,"Data Analyst",Remote,107179.04
+India,"Data Scientist",Hybrid,118125.09
+India,"Data Scientist",In-person,120773.20
+India,"Data Scientist",Remote,111966.83
+India,"Machine Learning Engineer",Hybrid,111994.78
+India,"Machine Learning Engineer",In-person,115096.50
+India,"Machine Learning Engineer",Remote,110135.76
+India,Statistician,Hybrid,113929.31
+India,Statistician,In-person,110739.70
+India,Statistician,Remote,112305.22
+Japan,"Data Analyst",Hybrid,118451.38
+Japan,"Data Analyst",In-person,116347.86
+Japan,"Data Analyst",Remote,116344.73
+Japan,"Data Scientist",Hybrid,118700.04
+Japan,"Data Scientist",In-person,115879.87
+Japan,"Data Scientist",Remote,109721.44
+Japan,"Machine Learning Engineer",Hybrid,114981.12
+Japan,"Machine Learning Engineer",In-person,125062.86
+Japan,"Machine Learning Engineer",Remote,112370.09
+Japan,Statistician,Hybrid,126226.98
+Japan,Statistician,In-person,121918.53
+Japan,Statistician,Remote,103127.98
+Mexico,"Data Analyst",Hybrid,113852.55
+Mexico,"Data Analyst",In-person,117250.21
+Mexico,"Data Analyst",Remote,108683.58
+Mexico,"Data Scientist",Hybrid,109374.57
+Mexico,"Data Scientist",In-person,108996.72
+Mexico,"Data Scientist",Remote,112325.27
+Mexico,"Machine Learning Engineer",Hybrid,113291.11
+Mexico,"Machine Learning Engineer",In-person,126134.22
+Mexico,"Machine Learning Engineer",Remote,101462.14
+Mexico,Statistician,Hybrid,124158.53
+Mexico,Statistician,In-person,131718.61
+Mexico,Statistician,Remote,119984.69
+"United Kingdom","Data Analyst",Hybrid,110820.52
+"United Kingdom","Data Analyst",In-person,117133.38
+"United Kingdom","Data Analyst",Remote,115472.54
+"United Kingdom","Data Scientist",Hybrid,114943.47
+"United Kingdom","Data Scientist",In-person,108511.24
+"United Kingdom","Data Scientist",Remote,112402.02
+"United Kingdom","Machine Learning Engineer",Hybrid,113374.57
+"United Kingdom","Machine Learning Engineer",In-person,108673.00
+"United Kingdom","Machine Learning Engineer",Remote,104773.76
+"United Kingdom",Statistician,Hybrid,125434.52
+"United Kingdom",Statistician,In-person,113553.98
+"United Kingdom",Statistician,Remote,106456.82
+"United States","Data Analyst",Hybrid,114263.24
+"United States","Data Analyst",In-person,111733.73
+"United States","Data Analyst",Remote,116172.66
+"United States","Data Scientist",Hybrid,102301.02
+"United States","Data Scientist",In-person,119822.88
+"United States","Data Scientist",Remote,107705.25
+"United States","Machine Learning Engineer",Hybrid,112306.62
+"United States","Machine Learning Engineer",In-person,123290.15
+"United States","Machine Learning Engineer",Remote,122281.03
+"United States",Statistician,Hybrid,102666.11
+"United States",Statistician,In-person,118272.54
+"United States",Statistician,Remote,119548.74
